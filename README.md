@@ -10,7 +10,8 @@ In the following link you can find further information about the dataset https:/
 You can perform an exploratory data analysis of the data, working with Pandas or Numpy.
 Interesting visualizations can be performed too using, for instance, Python libraries to plot the data over time or emissions by pollutant.
 This dataset is very good to practice queries using SQL or Pandas using query functions.
-Remember to upvote if you found the dataset useful :).
+
+Remember to star the repository if you found the dataset useful and inspiring :).
 
 ###  **Collection methodology**
 

@@ -15,3 +15,5 @@ Remember to upvote if you found the dataset useful :).
 ###  **Collection methodology**
 
 The original catalogue was downloaded from [here](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_ac_io10&lang=en.) and it was divided into 2 tables according to the `geo\time' label to avoid to deal with null values.
+
+Click the following file [emissions_GHG_pollutants.ipynb](https://github.com/Iron486/Emissions_GHGs_and_pollutants/blob/main/emissions_GHG_pollutants.ipynb) to take a look at the preprocessing steps.
